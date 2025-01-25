@@ -1,9 +1,3 @@
-# Welcome to My GitHub Profile
-
-<h1 align="center">Hi there, I'm Nuh Demir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-
-<h3 align="center">🚀 A Passionate Developer and Tech Enthusiast 🚀</h3>
-
 ## 📡 Connect with me:
 
 [![CodePen](https://img.shields.io/badge/-CodePen-252A34?style=flat&logo=codepen&logoColor=white)](https://codepen.io/EvAn_Studio)
